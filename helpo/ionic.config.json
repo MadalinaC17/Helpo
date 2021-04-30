@@ -1,0 +1,9 @@
+{
+  "name": "helpo",
+  "integrations": {
+    "capacitor": {
+    "enabled": false
+    }
+  },
+  "type": "react"
+}

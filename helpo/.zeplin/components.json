@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    {
+      "name": "@zeplin/cli-connect-react-plugin"
+    }
+  ],
+  "projects": [
+    "5e7801967e4cd76dda10c32c"
+  ],
+  "components": [
+    {
+      "path": "capacitor.config.json",
+      "zeplinIds": [
+        "5e7802396dc52c672b83febd"
+      ]
+    }
+  ]
+}
