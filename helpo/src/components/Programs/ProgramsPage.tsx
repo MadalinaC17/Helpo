@@ -18,7 +18,7 @@ const ProgramsPage: React.FC = () => {
             <IonTitle size="large">Blank</IonTitle>
           </IonToolbar>
         </IonHeader>
-        
+
         <ExploreContainer />
       </IonContent>
     </IonPage>
